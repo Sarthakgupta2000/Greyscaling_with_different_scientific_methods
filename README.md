@@ -1,6 +1,9 @@
+
 # **Greyscaling_with_different_scientific_methods**
 
 ## In this repository I plan to shed some light on the different scientific methods developed to convert colored RGB images to greyscaled images and explore their respective codes 
+
+![Screenshot (2)](https://user-images.githubusercontent.com/51722099/127757354-5f9a1600-7eec-452e-9927-8e84d462179f.png)
 
 ### First lets start with how really we humans perceive colors and how are these colors actually represented in computers
 
