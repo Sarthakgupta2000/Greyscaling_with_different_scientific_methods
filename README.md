@@ -1,7 +1,20 @@
 
 # **Greyscaling_with_different_scientific_methods**
 
-## In this repository I plan to shed some light on the different scientific methods developed to convert colored RGB images to greyscaled images and explore their respective codes 
+## In this repository I plan to shed some light on the different scientific methods developed to convert colored RGB images to greyscaled images and explore their respective codes
+
+```
+$python greyscale.py <image_file> <approach2greyscaling> 
+$python greyscale.py -h | --help
+```
+options for approaches are 
+
+                           - 'linear', 'l' for linear 
+
+                           - 'linear_approx', 'la' for linear approximation 
+                           
+                           - 'gamma_decomp', 'gd' for linear after gamma decompression
+                           
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/51722099/127757354-5f9a1600-7eec-452e-9927-8e84d462179f.png)
 
