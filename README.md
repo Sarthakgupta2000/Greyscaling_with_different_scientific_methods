@@ -4,6 +4,7 @@
 ## In this repository I plan to shed some light on the different scientific methods developed to convert colored RGB images to greyscaled images and explore their respective codes
 
 ```
+$pip install -r requirements.txt
 $python greyscale.py <image_file> <approach2greyscaling> 
 $python greyscale.py -h | --help
 ```
