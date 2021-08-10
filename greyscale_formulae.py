@@ -1,15 +1,13 @@
 """Converts colored images to greyscale using the method selected by the user.
 Install dependencies:
   pip install pillow docopt
-Note: If you do not provide an output path, the generated files will be saved
-in a folder named "Converted"
+
 Usage:
   greyscale.py <image_file> <approach2greyscaling>
   greyscale.py -h | --help
 
 Arguments:
   <in_path>   Input directory
-  <out_path>  Output directory [default: ./Converted]
   <approach2greyscaling>  which approach to use while greyscaling
 Options:
   -h, --help  Show this help screen.
@@ -42,7 +40,7 @@ def linear(rgb_img):
 
 def linear_approx(rgb_img):
     """
-    Convert *linear* RGB values to *linear* grayscale values.
+    Convert *linear* RGB values to *linear_approx* grayscale values.
 
     Y = 0.299*R + 0.587*G + 0.114*B
 
