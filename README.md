@@ -19,11 +19,17 @@ options for approaches are
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/51722099/127757354-5f9a1600-7eec-452e-9927-8e84d462179f.png)
 
+
+
+![time comparisons using diff formulaes](https://user-images.githubusercontent.com/51722099/129264020-5a810576-e6bd-43d3-bd65-b8d8b5afc70c.png)
+
+
+
 ### First lets start with how really we humans perceive colors and how are these colors actually represented in computers
 
-Color fascinates me because it is less about physics than it is about the physiology and psychology of human perception. All our standards are determined by what humans perceive. The range that needs to be covered, the number of channels necessary to represent a color, the resolution with which a color must be specified, and hence the information density and storage requirements, all depend on human retinas and visual cortices.
+Color is less about physics than it is about the physiology and psychology of human perception. All our standards are determined by what humans perceive. The range that needs to be covered, the number of channels necessary to represent a color, the resolution with which a color must be specified, and hence the information density and storage requirements, all depend on human retinas and visual cortices.
 
-It also means that, as with everything human, there is a great deal of variability. There are deficiencies like color blindness (I myself experience deuteranomaly, a type of red-green colorblindness) and there are those with unusual abilities, like tetrachromats, who have not three types of color receptors, but four, and can distinguish colors that the rest of us can’t. Because of this, keep in mind that all of the statements we can make about perception are generalizations only, and there will be individual differences.
+It also means that, as with everything human, there is a great deal of variability. There are deficiencies like color blindness and there are those with unusual abilities, like tetrachromats, who have not three types of color receptors, but four, and can distinguish colors that the rest of us can’t. Because of this, keep in mind that all of the statements we can make about perception are generalizations only, and there will be individual differences.
 
 Although photons vibrate at all frequencies, we have three distinct types of color-sensing cones, each with its characteristic frequency response, a particular color that it responds strongly to. That means that a combination of just three light sources with carefully chosen colors in carefully chosen intensities can make us experience any color that we're capable of seeing in the natural world. 
 
